@@ -10,6 +10,10 @@ It’s designed to help learners and professionals understand and use different 
 
 ## Technologies Learned
 
+<!-- 🟢 Finished (green ball): learned and comfortable -->
+<!-- 🔵 Ongoing (blue ball): currently learning or practicing -->
+<!-- 🔴 Not Started (red ball): haven't begun learning -->
+
 | Technology         | Learned |
 |--------------------|:-------:|
 | Neo4j              |   🔵   |
