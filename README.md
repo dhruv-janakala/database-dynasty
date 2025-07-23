@@ -8,13 +8,14 @@ This repository is maintained by [dhruv-janakala](https://github.com/dhruv-janak
 This repo contains coding notes, guides, and examples for multiple database technologies.  
 It’s designed to help learners and professionals understand and use different databases more effectively.
 
-## 🗂️ Contents
+## Technologies Learned
 
-- SQL fundamentals and queries
-- NoSQL basics and examples
-- Code snippets for various databases
-- Tips, tricks, and best practices
-- Reference notes and explanations
+| Technology         | Learned |
+|--------------------|:-------:|
+| Neo4j              |   🔵   |
+| MySQL              |        |
+| PostgreSQL         |        |
+| MongoDB            |        |
 
 ## 🚀 Usage
 
