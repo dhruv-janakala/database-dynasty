@@ -13,9 +13,9 @@ It’s designed to help learners and professionals understand and use different 
 | Technology         | Learned |
 |--------------------|:-------:|
 | Neo4j              |   🔵   |
-| MySQL              |        |
-| PostgreSQL         |        |
-| MongoDB            |        |
+| MySQL              |   🔴   |
+| PostgreSQL         |   🔴   |
+| MongoDB            |   🔴   |
 
 ## 🚀 Usage
 
